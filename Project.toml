@@ -1,0 +1,8 @@
+name = "SteelSections"
+uuid = "fb75f844-1da5-40f9-aa1b-3c8ccf07ac0c"
+authors = ["keithjl <keithjl@mit.edu>"]
+version = "0.1.0"
+
+[deps]
+Asap = "763a8c06-ba23-41fc-b385-b3b57b52403a"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
