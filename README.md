@@ -1,13 +1,13 @@
 # SteelSections
-Quick geometric information extraction for common rolled steel sections. Based in **v15** of the AISC shape database and includes:
+Quick geometric information extraction for common rolled steel sections. Based on **v15** of the AISC shape database and includes:
 
-- Wide flange (W)
-- Channels (C)
-- Angles (L)
-- Double angles (LL)
-- Tee (WT)
-- Rectangular HSS (HSSRect)
-- Round HSS (HSSRound)
+- Wide flange (`W`)
+- Channels (`C`)
+- Angles (`L`)
+- Double angles (`LL`)
+- Tee (`WT`)
+- Rectangular HSS (`HSSRect`)
+- Round HSS (`HSSRound`)
 
 Information for a specific section can be extracted via its name and corresponding section type, e.g.:
 ```
