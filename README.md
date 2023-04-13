@@ -31,6 +31,13 @@ To see the available sections to add `names` to the end of each section type
 @show LLnames
 ```
 
+### Extract all sections of a given type
+If you want all Tee (`WT`) sections available in a vector:
+```
+alltees = allWT()
+```
+And so forth for the other section types.
+
 ### Convert for structural analysis
 If using [Asap](https://github.com/keithjlee/Asap), you can directly convert a section into an `Asap.Section` or `Asap.TrussSection` via:
 ```
