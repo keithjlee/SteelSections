@@ -1,3 +1,6 @@
+# Note:
+This has been integrated into [AsapToolkit](https://github.com/keithjlee/AsapToolkit)
+
 # SteelSections
 Quick geometric information extraction for common rolled steel sections. Based on **v15** of the AISC shape database and includes:
 
